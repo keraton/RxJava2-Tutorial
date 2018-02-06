@@ -15,6 +15,7 @@
     * defer
     * create
     * multi-threads
+    * Hot-Cold
 * Observer / Subscriber
     * Multiple Observer
     * cache
